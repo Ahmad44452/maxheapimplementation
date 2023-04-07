@@ -1,4 +1,4 @@
-**<h1 style="text-align: center;">Max Heap Implementation in C++</h1>**
+**<h1 align="center">Max Heap Implementation in C++</h1>**
 
 ## **How to Build**
 
