@@ -4,9 +4,9 @@
 
 <p>To build this code, you will need a C++ compiler installed on your system. You can use any C++ compiler that supports C++11 or higher. Once you have a compiler installed, follow these steps:</p>
 
-- Clone the repository or download the source code.
-- Navigate to the directory where the source code is located.
-- Run the command `g++ -o maxHeap maxHeap.cpp` to compile the code.
+1. Clone the repository or download the source code.
+2. Navigate to the directory where the source code is located.
+3. Run the command `g++ -o maxHeap maxHeap.cpp` to compile the code.
 
 ## **How to Run**
 
